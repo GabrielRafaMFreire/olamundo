@@ -1,2 +1,3 @@
-# olamundo
- primeiro repositorio versionado
+# Olá, Mundo
+ Primeiro repositorio versionado do curso de git, github
+ Tô no 3o período, me julga não 
